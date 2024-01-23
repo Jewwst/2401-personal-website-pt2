@@ -53,3 +53,14 @@ button{
   top: 10px;
   right: 10px;
 }
+
+input{
+  display: block;
+  border: 2px solid black;
+}
+
+
+.successfullysubmitted{
+  display: flex;
+  justify-content: center;
+}
