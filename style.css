@@ -13,9 +13,10 @@ header {
   justify-content: center;
 }
 
-.links{
+.links {
   display: flex;
   justify-content: center;
+  
 }
 
 .class{
@@ -37,6 +38,7 @@ justify-content: center;
 
 button{
   background-color: antiquewhite;
+  
 
 }
 
@@ -81,3 +83,4 @@ input{
   display: flex;
   justify-content: center;
 }
+
