@@ -1,0 +1,48 @@
+*{
+  background-color: aqua;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.hello1{
+  display: flex;
+  justify-content: center;
+}
+
+.links{
+  display: flex;
+  justify-content: center;
+}
+
+.class{
+  display: flex;
+  justify-content: center;
+}
+
+
+.name{
+  display: flex;
+  justify-content: center;
+}
+
+.learn{
+display: flex;
+justify-content: center;
+
+}
+
+button{
+  background-color: antiquewhite;
+
+}
+
+img{
+  width: 40%;
+
+}
+
+
