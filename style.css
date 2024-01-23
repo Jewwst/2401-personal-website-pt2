@@ -64,3 +64,15 @@ input{
   display: flex;
   justify-content: center;
 }
+
+
+.imgcontainer{
+  display: flex;
+  justify-content: center;
+}
+
+
+.helloimg{
+  display: flex;
+  justify-content: center;
+}
